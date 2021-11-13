@@ -1,5 +1,5 @@
 TM_LANGUAGE = Syntaxes/OpenHAB.tmLanguage
-JSON = https://raw.githubusercontent.com/openhab/openhab-vscode/master/syntaxes/openhab.tmLanguage.json
+JSON = https://raw.githubusercontent.com/openhab/openhab-vscode/a59a95706f2491f5bc51e4b7bbf1785257b7a5c2/syntaxes/openhab.tmLanguage.json
 
 all: $(TM_LANGUAGE)
 
